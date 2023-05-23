@@ -1,0 +1,15 @@
+body{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background: #000000;
+    color: white;
+}
+
+#output {
+    display: none;
+}
+
+.container{
+
+    margin-top: 200px;
+}
